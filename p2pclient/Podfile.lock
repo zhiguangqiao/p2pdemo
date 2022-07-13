@@ -1,0 +1,25 @@
+PODS:
+  - CocoaAsyncSocket (7.6.5)
+  - RxRelay (6.5.0):
+    - RxSwift (= 6.5.0)
+  - RxSwift (6.5.0)
+
+DEPENDENCIES:
+  - CocoaAsyncSocket
+  - RxRelay
+  - RxSwift
+
+SPEC REPOS:
+  trunk:
+    - CocoaAsyncSocket
+    - RxRelay
+    - RxSwift
+
+SPEC CHECKSUMS:
+  CocoaAsyncSocket: 065fd1e645c7abab64f7a6a2007a48038fdc6a99
+  RxRelay: 1de1523e604c72b6c68feadedd1af3b1b4d0ecbd
+  RxSwift: 5710a9e6b17f3c3d6e40d6e559b9fa1e813b2ef8
+
+PODFILE CHECKSUM: 6bbd0c8cf76d1f2c06846a72f9c9ba2907d059da
+
+COCOAPODS: 1.11.2
